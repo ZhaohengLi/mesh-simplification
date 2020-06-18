@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Homework3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Homework3">
+				<Option output="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Homework3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homework3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Homework3/fast">
+				<Option output="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Homework3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Homework3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/Vector.cpp">
+			<Option target="Homework3"/>
+		</Unit>
+		<Unit filename="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/Vector.h">
+			<Option target="Homework3"/>
+		</Unit>
+		<Unit filename="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/cal.h">
+			<Option target="Homework3"/>
+		</Unit>
+		<Unit filename="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/main.cpp">
+			<Option target="Homework3"/>
+		</Unit>
+		<Unit filename="/Users/lizhaoheng/Dropbox/Work/CLionProjects/Homework3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
